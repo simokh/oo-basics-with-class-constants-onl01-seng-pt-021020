@@ -1,7 +1,6 @@
 class Shoe
   attr_accessor :color, :material, :condition
 
-
   BRANDS = []
 
   def initialize(brand)
